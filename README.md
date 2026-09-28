@@ -1,3 +1,5 @@
 # The machine learning based pipeline (TxCyto) to estimate cytokine activity in a tissue sample.
-Notebook details
-Key dependencies
+## Overview
+## Workflow
+## Key dependencies
+## Repository structure
