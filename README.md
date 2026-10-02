@@ -1,6 +1,6 @@
 # The machine learning based pipeline (TxCyto) to estimate cytokine activity in a tissue sample.
-  TxCyto is a deep-learning based framework to estimate cytokine activity from whole transcriptome of a sample.
 ## Overview
+TxCyto is a deep-learning based framework to estimate cytokine activity from whole transcriptome of a sample.
 Genes function through an interconnected network of different regulatory molecules such as cytokine, transcription factors, or miRNA. Any perturbation in the regulatory molecules propagate through this network and have a predictable impact on the global transcriptome of the tissue.  Based on this premise, we developed TxCyto - a deep learning-based framework that infers the activity of cytokines, directly from the whole transcriptome profile of a sample. 
 ## Workflow
 The TxCyot is based on fully connected neural network with three layers. An input layer consisting of transcriptomics feature floowed by three full connected headen layer.
