@@ -3,6 +3,9 @@
 ## Overview
 Genes function through an interconnected network of different regulatory molecules such as cytokine, transcription factors, or miRNA. Any perturbation in the regulatory molecules propagate through this network and have a predictable impact on the global transcriptome of the tissue.  Based on this premise, we developed TxCyto - a deep learning-based framework that infers the activity of cytokines, directly from the whole transcriptome profile of a sample. 
 ## Workflow
+The TxCyot is based on fully connected neural network with three layers. An input layer consisting of transcriptomics feature floowed by three full connected headen layer.
+Input → Dense(128, ReLU) → Dense(64, ReLU) → Dense(32, ReLU) → Output(1)
+Models are trained using Adams optimizer with mean squared error (MSE) as the loss function. The output represent the inferred acivtivy of the corresponding cytokine.
 ## Key dependencies
     Python 3.9.15
     Numpy 1.24.4
