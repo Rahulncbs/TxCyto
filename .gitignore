@@ -1,0 +1,14 @@
+# TxCyto training/reference data
+data/*.tsv
+data/*.csv
+data/*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
