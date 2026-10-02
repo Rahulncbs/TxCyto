@@ -1,0 +1,52 @@
+,Dataset,Condition,Treatment,Disease,Target,Response,Activity
+0,GSE72754,IFNA&high@whole blood,IFN-K,SLE,IFN1,Yes,-21.52
+1,GSE72754,IFNA&low@whole blood,IFN-K,SLE,IFN1,No,-13.47
+2,GSE100093,IFNG&15d@AMG811 Lesional&180 mg,AMG811,DLE,IFNG,,-5.97
+3,GSE100093,IFNG&57d@AMG811 Lesional&180 mg,AMG811,DLE,IFNG,,-15.56
+4,GSE78193,IFNG&15d@Whole Blood&180mg,AMG811,SLE,IFNG,,-4.38
+5,GSE78193,IFNG&15d@Whole Blood&60mg,AMG811,SLE,IFNG,,-5.97
+6,GSE78193,IFNG&56d@Whole Blood&180mg,AMG811,SLE,IFNG,,-6.11
+7,GSE78193,IFNG&56d@Whole Blood&18mg,AMG811,SLE,IFNG,,-1.54
+8,GSE78193,IFNG&56d@Whole Blood&60mg,AMG811,SLE,IFNG,,-10.02
+9,GSE78193,IFNG&EOS@Whole Blood&180mg,AMG811,SLE,IFNG,,-0.51
+10,GSE78193,IFNG&EOS@Whole Blood&18mg,AMG811,SLE,IFNG,,-2.36
+11,GSE78193,IFNG&EOS@Whole Blood&60mg,AMG811,SLE,IFNG,,-7.77
+12,GSE130588,IL4&16w@Dupilumab.LS,Dupilumab,AD,IL13,,-1.44
+14,GSE130588,IL4&4w@Dupilumab.LS,Dupilumab,AD,IL13,,0
+15,GSE59294,IL4@Dupilumab.LS&150 mg,Dupilumab,AD,IL13,,3.72
+16,GSE59294,IL4@Dupilumab.LS&300 mg,Dupilumab,AD,IL13,,0.68
+17,GSE59294,IL4@Dupilumab.NL&150 mg,Dupilumab,AD,IL13,,-4.01
+18,GSE59294,IL4@Dupilumab.NL&300 mg,Dupilumab,AD,IL13,,-1.11
+19,GSE11903,TNFA&12w@non-responder,Etanercept,Psoriasis,IL17A,No,-2.52
+20,GSE11903,TNFA&12w@responder,Etanercept,Psoriasis,IL17A,Yes,-15.32
+21,GSE11903,TNFA&1w@non-responder,Etanercept,Psoriasis,IL17A,No,-5
+22,GSE11903,TNFA&1w@responder,Etanercept,Psoriasis,IL17A,Yes,-11.68
+23,GSE11903,TNFA&2w@non-responder,Etanercept,Psoriasis,IL17A,No,-6.06
+24,GSE11903,TNFA&2w@responder,Etanercept,Psoriasis,IL17A,Yes,-14.32
+25,GSE11903,TNFA&4w@non-responder,Etanercept,Psoriasis,IL17A,No,1.43
+26,GSE11903,TNFA&4w@responder,Etanercept,Psoriasis,IL17A,Yes,-17.79
+34,GSE80060,IL1B&Day3@Canakinumab_0.0,Canakinumab,SJIA,IL1B,No,-3.65
+36,GSE80060,IL1B&Day3@Canakinumab_30,Canakinumab,SJIA,IL1B,No,-1.65
+37,GSE80060,IL1B&Day3@Canakinumab_50,Canakinumab,SJIA,IL1B,No,-3.63
+38,GSE80060,IL1B&Day3@Canakinumab_70,Canakinumab,SJIA,IL1B,Yes,-6.29
+39,GSE80060,IL1B&Day3@Canakinumab_90,Canakinumab,SJIA,IL1B,Yes,-5.98
+41,GSE99802,IL22&12@Drug.LS,Fezakinumab,AD,IL22,,-11.51
+42,GSE99802,IL22&12@Drug.NL,Fezakinumab,AD,IL22,,-7.41
+43,GSE99802,IL22&4@Drug.LS,Fezakinumab,AD,IL22,,-8.91
+44,GSE99802,IL22&4@Drug.NL,Fezakinumab,AD,IL22,,-6.8
+45,GSE130588,IL4&16w@Dupilumab.LS,Dupilumab,AD,IL4,,-2.69
+47,GSE130588,IL4&4w@Dupilumab.LS,Dupilumab,AD,IL4,,1.14
+48,GSE59294,IL4@Dupilumab.LS&150 mg,Dupilumab,AD,IL4,,4.83
+49,GSE59294,IL4@Dupilumab.LS&300 mg,Dupilumab,AD,IL4,,3.86
+50,GSE59294,IL4@Dupilumab.NL&150 mg,Dupilumab,AD,IL4,,-3.91
+51,GSE59294,IL4@Dupilumab.NL&300 mg,Dupilumab,AD,IL4,,0.24
+63,GSE11903,TNFA&12w@non-responder,Etanercept,Psoriasis,TNFA,No,1.45
+64,GSE11903,TNFA&12w@responder,Etanercept,Psoriasis,TNFA,Yes,-1.06
+65,GSE11903,TNFA&1w@non-responder,Etanercept,Psoriasis,TNFA,No,2.44
+66,GSE11903,TNFA&1w@responder,Etanercept,Psoriasis,TNFA,Yes,-1.12
+67,GSE11903,TNFA&2w@non-responder,Etanercept,Psoriasis,TNFA,No,2.5
+68,GSE11903,TNFA&2w@responder,Etanercept,Psoriasis,TNFA,Yes,-1.75
+69,GSE11903,TNFA&4w@non-responder,Etanercept,Psoriasis,TNFA,No,2.12
+70,GSE11903,TNFA&4w@responder,Etanercept,Psoriasis,TNFA,Yes,-2
+72,GSE42048,TWEAK@ACHN xenograft&24h,RG7212,Xenograft,TWEAK,,-1.08
+73,GSE42048,TWEAK@ACHN xenograft&4h,RG7212,Xenograft,TWEAK,No,-1.6
