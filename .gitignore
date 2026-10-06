@@ -15,3 +15,5 @@ __pycache__/
 /data/kumarr17/TxCyto/results/
 data/
 results/
+*.swp
+*.swo
