@@ -86,8 +86,9 @@ Then run:
 import pandas as pd
 from TxCyto import predict_txcyto
 
+### Here you can import your own gene expression data file
 test_df = pd.read_csv(
-    "/path/to/test_gene_exp_df.csv",
+    "/Users/kumarr17/Downloads/TxCyto/example/test_gene_exp_df.csv",
     index_col=0
 )
 
