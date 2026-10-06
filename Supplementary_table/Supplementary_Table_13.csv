@@ -1,0 +1,13 @@
+,Abbreviation,Cell type
+0,CD14,CD14+ cells
+1,CD19,CD19+ B cells
+2,CD4,CD4+ T cells
+3,CD56,CD56+ NK cells
+4,CD8,CD8+ T cells
+5,Cancer,Cancer cells
+6,Endothelial,Endothelial cells
+7,Eos,Eosinophils
+8,Fibroblast,Fibroblasts
+9,Neu,Neutrophils
+10,Treg,Regulatory T cells
+11,TCGA,TCGA bulk tumor transcriptome

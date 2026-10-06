@@ -1,0 +1,5 @@
+Signature,Genes
+CD8 T cell,"CD3D, CD3E, CD3G, CD8A, CD8B"
+Cytotoxic,"GZMB, PRF1, NKG7, GNLY"
+IFNG response,"IFNG, CXCL9, CXCL10, STAT1, IRF1"
+Exhaustion,"PDCD1, LAG3, TIGIT, HAVCR2, CTLA4"

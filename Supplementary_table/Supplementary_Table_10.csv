@@ -1,0 +1,34 @@
+,Abbreviation,TCGA Tumor_Type
+0,ACC,Adrenocortical Carcinoma
+1,BLCA,Bladder Urothelial Carcinoma
+2,BRCA,Breast Invasive Carcinoma
+3,CESC,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma
+4,CHOL,Cholangiocarcinoma
+5,COAD,Colon Adenocarcinoma
+6,DLBC,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma
+7,ESCA,Esophageal Carcinoma
+8,GBM,Glioblastoma Multiforme
+9,HNSC,Head and Neck Squamous Cell Carcinoma
+10,KICH,Kidney Chromophobe
+11,KIRC,Kidney Renal Clear Cell Carcinoma
+12,KIRP,Kidney Renal Papillary Cell Carcinoma
+13,LAML,Acute Myeloid Leukemia
+14,LGG,Brain Lower Grade Glioma
+15,LIHC,Liver Hepatocellular Carcinoma
+16,LUAD,Lung Adenocarcinoma
+17,LUSC,Lung Squamous Cell Carcinoma
+18,MESO,Mesothelioma
+19,OV,Ovarian Serous Cystadenocarcinoma
+20,PAAD,Pancreatic Adenocarcinoma
+21,PCPG,Pheochromocytoma and Paraganglioma
+22,PRAD,Prostate Adenocarcinoma
+23,READ,Rectum Adenocarcinoma
+24,SARC,Sarcoma
+25,SKCM,Skin Cutaneous Melanoma
+26,STAD,Stomach Adenocarcinoma
+27,TGCT,Testicular Germ Cell Tumors
+28,THCA,Thyroid Carcinoma
+29,THYM,Thymoma
+30,UCEC,Uterine Corpus Endometrial Carcinoma
+31,UCS,Uterine Carcinosarcoma
+32,UVM,Uveal Melanoma
