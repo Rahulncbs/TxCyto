@@ -13,3 +13,5 @@ __pycache__/
 # macOS
 .DS_Store
 /data/kumarr17/TxCyto/results/
+data/
+results/
