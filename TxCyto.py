@@ -304,9 +304,9 @@ def predict_txcyto(
 
     for cytokine in cytokines:
 
-        print("\n======================================")
-        print(f"Training TxCyto model: {cytokine}")
-        print("======================================")
+       # print("\n======================================")
+       #print(f"Training TxCyto model: {cytokine}")
+       # print("======================================")
 
 
         # ----------------------------------------------------
