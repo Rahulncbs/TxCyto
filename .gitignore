@@ -18,3 +18,6 @@ results/
 *.swp
 *.swo
 .nfs*
+*.swp
+*.swo
+.nfs*
