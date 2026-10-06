@@ -18,9 +18,9 @@ Models are trained using Adams optimizer with mean squared error (MSE) as the lo
 ## Repository structure
 
 ## How to run the workflow
-1.git clone https://github.com/Rahulncbs/TxCyto.git
-2.cd TxCyto
-3.conda create -n txcyto python=3.9 -y
+###1.git clone https://github.com/Rahulncbs/TxCyto.git
+###2.cd TxCyto
+###3.conda create -n txcyto python=3.9 -y
 4.conda activate txcyto
 5.pip install numpy pandas scikit-learn tensorflow
 6.mkdir -p data
