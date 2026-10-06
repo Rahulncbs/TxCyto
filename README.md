@@ -16,3 +16,21 @@ Models are trained using Adams optimizer with mean squared error (MSE) as the lo
     Scipy.  1.11.1
     Matplotlib. 3.7.2
 ## Repository structure
+
+## How to run the workflow
+1.git clone https://github.com/Rahulncbs/TxCyto.git
+2.cd TxCyto
+3.conda create -n txcyto python=3.9 -y
+4.conda activate txcyto
+5.pip install numpy pandas scikit-learn tensorflow
+6.mkdir -p data
+7.download results.zip fomr https://zenodo.org/records/23177757 place the data files TCGA_Merged_mRNA_Expression.tsv and common_features_ver3.txt into newly created data folder 
+8. run the python either in notebook or terminal as follows:
+    python
+    import pandas as pd
+    from TxCyto import predict_txcyto
+    test_df = pd.read_csv("/Users/YOUR_USERNAME/Downloads/test_gene_exp_df.csv",index_col=0)
+    pred_long, pred_matrix = predict_txcyto(test_df=test_df,cytokines=['IFNG'])
+    print(pred_matrix)
+    
+
